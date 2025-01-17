@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\git\\prezentacja\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0AF327C-F24E-4237-A25D-F67AD9100EE1}|prezentacja\\prezentacja.csproj|d:\\git\\prezentacja\\prezentacja\\kalkulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0AF327C-F24E-4237-A25D-F67AD9100EE1}|prezentacja\\prezentacja.csproj|solutionrelative:prezentacja\\kalkulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0AF327C-F24E-4237-A25D-F67AD9100EE1}|prezentacja\\prezentacja.csproj|d:\\git\\prezentacja\\prezentacja\\classes\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0AF327C-F24E-4237-A25D-F67AD9100EE1}|prezentacja\\prezentacja.csproj|solutionrelative:prezentacja\\classes\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C6010FF-4BBD-4AE4-9B5D-780F349F8FAF}|kalkulatorTest\\kalkulatorTest.csproj|d:\\git\\prezentacja\\kalkulatortest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C6010FF-4BBD-4AE4-9B5D-780F349F8FAF}|kalkulatorTest\\kalkulatorTest.csproj|solutionrelative:kalkulatortest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\git\\prezentacja\\kalkulatorTest\\Program.cs",
+              "RelativeDocumentMoniker": "kalkulatorTest\\Program.cs",
+              "ToolTip": "D:\\git\\prezentacja\\kalkulatorTest\\Program.cs",
+              "RelativeToolTip": "kalkulatorTest\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T14:34:46.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "calculator.cs",
+              "DocumentMoniker": "D:\\git\\prezentacja\\prezentacja\\classes\\calculator.cs",
+              "RelativeDocumentMoniker": "prezentacja\\classes\\calculator.cs",
+              "ToolTip": "D:\\git\\prezentacja\\prezentacja\\classes\\calculator.cs",
+              "RelativeToolTip": "prezentacja\\classes\\calculator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T15:06:52.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "kalkulator.cs",
+              "DocumentMoniker": "D:\\git\\prezentacja\\prezentacja\\kalkulator.cs",
+              "RelativeDocumentMoniker": "prezentacja\\kalkulator.cs",
+              "ToolTip": "D:\\git\\prezentacja\\prezentacja\\kalkulator.cs",
+              "RelativeToolTip": "prezentacja\\kalkulator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T14:27:38.139Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
